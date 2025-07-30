@@ -10,12 +10,13 @@ Challenge your perspective and grow your mind. This is an app that helps you ref
 - **Personal History:** Review your journey and explore past challenges.
 - **Dark/Light Theme:** Beautiful, responsive design for all devices.
 
-
 <details>
   <summary>
 <h2>Screenshots</h2>
   </summary>
- 
+ <img width="1358" height="631" alt="image" src="https://github.com/user-attachments/assets/58c6580f-cc9c-45bb-b5d3-85b4128fb0f4" />
+<img width="1359" height="631" alt="image" src="https://github.com/user-attachments/assets/fd6a21de-628c-4e7f-9d62-2c525a4938bc" />
+<img width="1365" height="629" alt="image" src="https://github.com/user-attachments/assets/6acd9fe1-5a25-4b26-af24-1d0726d8fa3e" />
 </details>
 
 ## Setup
