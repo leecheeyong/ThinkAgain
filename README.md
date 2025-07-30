@@ -2,7 +2,7 @@
 
 # ThinkAgain
 
-Challenge your perspective and grow your mind. ThinkAgain is a web app that helps you reflect on your beliefs, receive thoughtful AI-powered challenges, and track your cognitive growth over time.
+Challenge your perspective and grow your mind. This is an app that helps you reflect on your beliefs, receive thoughtful AI-powered challenges, and track your cognitive growth over time.
 
 ## Features
 - **AI-Powered Challenges:** Submit your thoughts, beliefs, or opinions and get respectful, playful, or philosophical challenges from AI.
