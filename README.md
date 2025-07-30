@@ -5,6 +5,7 @@
 Challenge your perspective and grow your mind. This is an app that helps you reflect on your beliefs, receive thoughtful AI-powered challenges, and track your cognitive growth over time, it's made possible with the [HackClub AI](https://ai.hackclub.com)
 
 ## Features
+
 - **AI-Powered Challenges:** Submit your thoughts, beliefs, or opinions and get respectful, playful, or philosophical challenges from AI.
 - **Streak Tracking:** Build daily reflection habits and see your progress.
 - **Personal History:** Review your journey and explore past challenges.
