@@ -35,7 +35,11 @@ const showRegister = () => {
               isDark ? 'bg-blue-600' : 'bg-blue-600',
             ]"
           >
-            <img src="/logo.png" alt="Logo" class="w-8 h-8 object-contain rounded" />
+            <img
+              src="/logo.png"
+              alt="Logo"
+              class="w-8 h-8 object-contain rounded"
+            />
           </div>
           <h1
             :class="[
@@ -79,7 +83,7 @@ const showRegister = () => {
             @click="showLogin"
             class="px-10 py-4 text-lg font-bold rounded-full shadow-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-blue-500 bg-gradient-to-r from-blue-600 to-purple-600 text-white hover:from-blue-700 hover:to-purple-700"
             :disabled="isLoading"
-            style="letter-spacing:0.02em;"
+            style="letter-spacing: 0.02em"
           >
             <UIComponents v-if="isLoading" component="LoadingSpinner" />
             <span v-else>Get Started</span>

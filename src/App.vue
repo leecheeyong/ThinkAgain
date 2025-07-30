@@ -77,7 +77,8 @@ const handleSwitchAuthMode = () => {
         href="https://github.com/leecheeyong/ThinkAgain/blob/main/LICENSE"
         target="_blank"
         :class="[isDark ? 'text-gray-200' : 'text-gray-700', 'hover:underline']"
-        >MIT License</a>
+        >MIT License</a
+      >
     </p>
   </footer>
 </template>
